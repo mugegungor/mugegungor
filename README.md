@@ -15,7 +15,7 @@
 
 ## About
 
-Software QA professional with **6+ years** of progressive experience — from manual testing across diverse mobile platforms to architecting automation frameworks from the ground up.
+Software QA professional with **7+ years** of progressive experience — from manual testing across diverse mobile platforms to architecting automation frameworks from the ground up.
 
 Specialized in **end-to-end mobile test automation** (iOS & Android) using WebDriverIO, Appium and BDD/Gherkin. Currently exploring the intersection of **AI & quality engineering** — built a 19-skill AI automation ecosystem and a 3-layer visual regression system on Claude Vision API.
 
@@ -71,7 +71,7 @@ Specialized in **end-to-end mobile test automation** (iOS & Android) using WebDr
 | ✅ | **Software Test Assistant Specialist** | Teknasyon · 10+ iOS / Android apps | Jan 2019 — Jun 2021 | 2y 5m |
 | ✅ | **Jr. IT Product Owner** | Ketchup Loyalty Agency · API + UAT | Mar 2018 — Jan 2019 | 10m |
 
-> `✓ Tests: 4 passed · Snapshots: 6+ years tracked · Time: 2,556 days`
+> `✓ Tests: 4 passed · Snapshots: 7+ years tracked · Time: 2,556 days`
 
 ---
 
@@ -102,7 +102,7 @@ End-to-end web tests for çiçeksepeti.com written in Robot Framework. Keyword-d
 
 | 🗓 Experience | 👥 Users Covered | 🤖 AI Skills | 👁 Visual Diff Layers |
 |:---:|:---:|:---:|:---:|
-| **6+ years** | **10M+ active** | **19 modules** | **3 hybrid** |
+| **7+ years** | **10M+ active** | **19 modules** | **3 hybrid** |
 | 2018 — present | Getcontact | ~5,470 LOC | −80% AI calls |
 
 </div>
