@@ -117,7 +117,6 @@ End-to-end web tests for çiçeksepeti.com written in Robot Framework. Keyword-d
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/in_LinkedIn-%2FmugeGuüngor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mugegungor)
 
-`✓ build passed in 6 years · 0 critical regressions · cert: ISTQB® CTFL · ID 0123 CTFL 3960`
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mugegungor&color=3fb950&style=flat-square&label=profile+views)
 
