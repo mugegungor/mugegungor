@@ -96,19 +96,6 @@ End-to-end web tests for çiçeksepeti.com written in Robot Framework. Keyword-d
 
 ---
 
-## Metrics
-
-<div align="center">
-
-| 🗓 Experience | 👥 Users Covered | 🤖 AI Skills | 👁 Visual Diff Layers |
-|:---:|:---:|:---:|:---:|
-| **7+ years** | **10M+ active** | **19 modules** | **3 hybrid** |
-| 2018 — present | Getcontact | ~5,470 LOC | −80% AI calls |
-
-</div>
-
----
-
 <div align="center">
 
 **`test.contact()`**
