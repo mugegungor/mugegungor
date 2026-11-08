@@ -15,11 +15,18 @@
 
 ## About
 
-Software QA professional with **7+ years** of progressive experience — from manual testing across diverse mobile platforms to architecting automation frameworks from the ground up.
+Test Automation Engineer with **7+ years** in QA — started in manual testing across 10+ iOS/Android apps, grew into designing and owning automation frameworks end to end.
 
-Specialized in **end-to-end mobile test automation** (iOS & Android) using WebDriverIO, Appium and BDD/Gherkin. Currently exploring the intersection of **AI & quality engineering** — built a 19-skill AI automation ecosystem and a 3-layer visual regression system on Claude Vision API.
+**What I do best**
 
-> 🟢 Open to senior QA roles, EU-wide.
+- 📱 **Mobile automation** — iOS & Android suites with Appium + WebDriverIO, BDD/Gherkin scenarios, device-cloud runs on LambdaTest, wired into CI/CD
+- 🤖 **AI-assisted QA** — together with my test team, built a Claude Code skill ecosystem (~19 skills) covering the full QA lifecycle: test design, data generation, triage, reporting
+- 🖼️ **Visual regression** — 3-layer pipeline (PixelMatch → Figma API → Claude Vision) that catches UI drift before users do
+- 📡 **Production signals** — triaged analytics events, logs and Kubernetes events via an in-house observability stack to turn production noise into actionable bugs
+
+**Recently:** 7 years at Teknasyon — Getcontact, Astralcoach and Deepwall — most recently as Test Automation Engineer (until Jun 2026).
+
+> 🟢 Open to senior QA / test automation roles in Germany and remote across the EU.
 
 ---
 
