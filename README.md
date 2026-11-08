@@ -30,7 +30,7 @@ Specialized in **end-to-end mobile test automation** (iOS & Android) using WebDr
 ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=flat-square&logo=webdriverio&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-00C0B5?style=flat-square&logo=robotframework&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber%2FBDD-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
