@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mugegungor-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mugegungor)
 [![Email](https://img.shields.io/badge/Email-mmuge.gungorr%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mmuge.gungorr@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Baden--W%C3%BCrttemberg%2C%20Germany-1a1a2e?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/mugegungor)
+[![Location](https://img.shields.io/badge/Germany-1a1a2e?style=flat-square&label=Location&logo=googlemaps&logoColor=white)](https://github.com/mugegungor)
 [![ISTQB](https://img.shields.io/badge/ISTQB%C2%AE-CTFL%20%C2%B7%200123%20CTFL%203960-3b82f6?style=flat-square)](https://scr.istqb.org/)
 
 </div>
